@@ -42,6 +42,9 @@ def how_many_steps?
   puts "Left"
   if (steps % 3 == 0)
   puts "Right"
+  end
+  sleep(0.5)
+end
 end
 
 def break_dance
