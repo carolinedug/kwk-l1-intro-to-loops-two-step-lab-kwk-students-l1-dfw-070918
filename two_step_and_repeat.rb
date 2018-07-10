@@ -13,7 +13,7 @@ end
 
 def a_few_more_steps
   loop do
-   puts "Right foot back"
+  puts "Right foot back"
   sleep(.05)
   puts "Left foot back"
   sleep(.05)
